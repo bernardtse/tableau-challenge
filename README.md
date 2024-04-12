@@ -17,7 +17,7 @@ This repository contains
 
 
 ## 3. Deployment
-The workbook is published on Tableau Public. You can view it [here](https://public.tableau.com/views/TableauChallenge_17129597717470/Story?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link).
+The workbook is published on Tableau Public. You can view it [here](https://public.tableau.com/app/profile/bernard.tse2794/viz/TableauChallenge_17129597717470/Story).
 
 
 ## 4. Source of Data
