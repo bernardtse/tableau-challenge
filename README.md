@@ -12,8 +12,8 @@ The challenge aims to develop a tableau workbook which contains a story with 5 i
 
 ## 2. Repository
 This repository contains
-- [`TableauChallenge.twbx`](`TableauChallenge.twbx`): The main Tableau Workbook.
-- [`Resources/`](`Resources/`): Raw CSV data files
+- [`TableauChallenge.twbx`](TableauChallenge.twbx): The main Tableau Workbook.
+- [`Resources/`](Resources/): Raw CSV data files
 
 
 ## 3. Deployment
