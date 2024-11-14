@@ -1,13 +1,13 @@
 # tableau-challenge
 
-## Content:
+## Contents
 1. [Overview](#1-overview)
 2. [Repository](#2-repository)
 3. [Deployment](#3-deployment)
 4. [Source of Data](#4-source-of-data)
 
 ## 1. Overview
-The challenge aims to develop a tableau workbook which contains a story with 5 interactive dashboards. The workbook compares ridership patterns in Jun 2023 and Dec 2023. The story is targeted at City officials, who may not necessarily have technical skills in data analytics. Therefore, the workbook is designed to be understood by non-technical readers.
+This challenge aims to develop a tableau workbook which contains a story with 5 interactive dashboards. The workbook compares ridership patterns in Jun 2023 and Dec 2023. The story is targeted at City officials, who may not necessarily have technical skills in data analytics. Therefore, the workbook is designed to be understood by non-technical readers.
 
 
 ## 2. Repository
