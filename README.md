@@ -13,7 +13,7 @@ The Citi Bike programme, the largest bike-sharing initiative in the United State
 ## 2. Repository
 This repository contains
 - `TableauChallenge.twbx`: The main Tableau Workbook
-- [`resources`](resources): Raw CSV data files
+- [`resources/`](resources): Raw CSV data files
 
 
 ## 3. Deployment
