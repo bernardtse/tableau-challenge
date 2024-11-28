@@ -19,6 +19,7 @@ This repository contains
 ## 3. Deployment
 The workbook is published on Tableau Public. You can view it [here](https://public.tableau.com/app/profile/bernard.tse2794/viz/TableauChallenge_17129597717470/Story).
 
+![Tableau Workbook](images/tableau_screenshot.png)
 
 ## 4. Source of Data
 - The data used is available on the Citi Bike website: https://citibikenyc.com/system-data
