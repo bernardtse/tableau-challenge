@@ -22,4 +22,5 @@ The workbook is published on Tableau Public. You can view it [here](https://publ
 ![Tableau Workbook](images/tableau_screenshot.png)
 
 ## 4. Source of Data
-- The data used is available on the Citi Bike website: https://citibikenyc.com/system-data
+
+The data used is available on the Citi Bike website: https://citibikenyc.com/system-data
